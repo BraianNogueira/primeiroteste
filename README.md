@@ -1,7 +1,7 @@
 # primeiro teste!
  primeiro repositório pessoal
 
- Algoritmo "semnome"
+ Algoritmo "de 1 a 5"
 
 Var
 
